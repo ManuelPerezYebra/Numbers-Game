@@ -120,11 +120,11 @@ const playerAnswerHandler = event => {
 			scoreElement.innerHTML =
 				'<i class="fa-solid fa-star" style="color: #FFD43B;"></i>' +
 				pointsCounter;
-			sound.setAttribute('src', 'docs/assets/win-Kwz_6W0s.mp3');
+			sound.setAttribute('src', './win-Kwz_6W0s.mp3');
 			sound.play();
 			numberoperationplus(1);
 		} else {
-			sound.setAttribute('src', '/assets/lost-9HzUp7IM.mp3');
+			sound.setAttribute('src', './assets/lost-9HzUp7IM.mp3');
 			sound.play();
 			numberoperationplus(1);
 		}
