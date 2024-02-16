@@ -14,7 +14,7 @@ import {
 	totalpointscontainer,
 	roundCounter
 } from './dom';
-import soundlost from '../assets/lost.mp3';
+import soundlost from 'https://github.com/ManuelPerezYebra/Numbers-Game/blob/main/docs/assets/lost-9HzUp7IM.mp3';
 import soundwin from '../assets/win.mp3';
 let firstrandomnumber;
 let secondrandomnumber;
@@ -124,7 +124,7 @@ const playerAnswerHandler = event => {
 			sound.play();
 			numberoperationplus(1);
 		} else {
-			sound.setAttribute('src', './assets/lost-9HzUp7IM.mp3');
+			sound.setAttribute('src', soundlost);
 			sound.play();
 			numberoperationplus(1);
 		}
