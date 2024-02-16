@@ -124,7 +124,7 @@ const playerAnswerHandler = event => {
 			sound.play();
 			numberoperationplus(1);
 		} else {
-			sound.setAttribute('src', soundlost);
+			sound.setAttribute('src', './win-Kwz_6W0s.mp3');
 			sound.play();
 			numberoperationplus(1);
 		}
