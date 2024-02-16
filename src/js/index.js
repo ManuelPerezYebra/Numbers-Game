@@ -14,7 +14,7 @@ import {
 	totalpointscontainer,
 	roundCounter
 } from './dom';
-import soundlost from '../assets/lost.mp3';
+import soundlost from './assets/lost-9HzUp7IM.mp3';
 import soundwin from '../assets/win.mp3';
 let firstrandomnumber;
 let secondrandomnumber;
@@ -120,7 +120,7 @@ const playerAnswerHandler = event => {
 			scoreElement.innerHTML =
 				'<i class="fa-solid fa-star" style="color: #FFD43B;"></i>' +
 				pointsCounter;
-			sound.setAttribute('src', soundwin);
+			sound.setAttribute('src', soundlost);
 			sound.play();
 			numberoperationplus(1);
 		} else {
