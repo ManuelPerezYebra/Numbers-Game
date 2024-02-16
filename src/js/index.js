@@ -124,7 +124,7 @@ const playerAnswerHandler = event => {
 			sound.play();
 			numberoperationplus(1);
 		} else {
-			sound.setAttribute('src', '/assets/lost.mp3');
+			sound.setAttribute('src', '/assets/lost-9HzUp7IM.mp3');
 			sound.play();
 			numberoperationplus(1);
 		}
