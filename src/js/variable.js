@@ -1,20 +1,19 @@
+import { root } from 'postcss';
 import {
-	root,
+	darkmodeChange,
+	darkmodeElement,
 	fisrtNumberElement,
-	scoreElement,
-	secondNumberElement,
 	operatorElement,
 	resultoptionsElement,
-	darkmodeElement,
-	darkmodeChange,
+	roundCounter,
 	satartGameButton,
+	scoreElement,
+	secondNumberElement,
 	sound,
 	totalPointsElement,
 	totaloperationsElement,
-	totalpointscontainer,
-	roundCounter
+	totalpointscontainer
 } from './dom';
-
 let firstrandomnumber;
 let secondrandomnumber;
 let similarResult1;
@@ -26,7 +25,6 @@ let timerInterval;
 let pointsCounter = 0;
 let totaltime = 60;
 let playeroption;
-
 const startGame = () => {
 	randomnumbers();
 	startTimer();
@@ -43,7 +41,6 @@ const randomnumbers = () => {
 	buildFinalTable();
 	fillTotalOperationTable();
 };
-
 const randomoperator = () => {
 	const operators = ['-', '+'];
 	const randomnumber = Math.floor(Math.random() * 2);
@@ -234,3 +231,25 @@ satartGameButton.addEventListener('click', () => {
 
 	startGame();
 });
+
+export {
+	startGame,
+	randomnumbers,
+	startTimer,
+	randomoperator,
+	fillNumbers,
+	operationResult,
+	writeResult,
+	playerAnswer,
+	playerAnswerHandler,
+	updateTimer,
+	timefinished,
+	buildFinalTable,
+	fillTotalOperationTable,
+	numberoperationplus,
+	hideFirstChallenge,
+	darkToLight,
+	generatebuttonplayagain,
+	playagain,
+	lightToDark
+};
