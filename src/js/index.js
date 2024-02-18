@@ -14,8 +14,7 @@ import {
 	totalpointscontainer,
 	roundCounter
 } from './dom';
-import soundlost from '../assets/lost.mp3';
-import soundwin from '../assets/win.mp3';
+
 let firstrandomnumber;
 let secondrandomnumber;
 let similarResult1;
