@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto]([URL-de-github-pages-de-este-proyecto](https://manuelperezyebra.github.io/Numbers-Game/))
+- [URL-de-github-pages-de-este-proyecto](https://manuelperezyebra.github.io/Numbers-Game/)
 
 
 ## Descripción 📑
