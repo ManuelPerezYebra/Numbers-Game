@@ -34,7 +34,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **TU NOMBRE**
 
-- [micorreo@midominio.com](manuelperezyebra@gmail.com / manucodedev@gmail.com)
+- (manuelperezyebra@gmail.com / manucodedev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/manuelperezyebra)
 - [Porfolio web](https://manucodedev.es/)
 
