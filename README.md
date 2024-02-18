@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](https://manuelperezyebra.github.io/Numbers-Game/)
+- [Pincha aquí para poder probar la app en vivo](https://manuelperezyebra.github.io/Numbers-Game/)
 
 
 ## Descripción 📑
