@@ -1,4 +1,4 @@
-# Título del proyecto
+# Numbers Game
 
 ![Imagen del proyecto](https://github.com/ManuelPerezYebra/Numbers-Game/blob/main/docs/assets/screenshots/general%20project.png)
 
