@@ -120,11 +120,17 @@ const playerAnswerHandler = event => {
 			scoreElement.innerHTML =
 				'<i class="fa-solid fa-star" style="color: #FFD43B;"></i>' +
 				pointsCounter;
-			sound.setAttribute('src', './win-Kwz_6W0s.mp3');
+			sound.setAttribute(
+				'src',
+				'https://github.com/ManuelPerezYebra/Numbers-Game/blob/main/docs/assets/win-Kwz_6W0s.mp3'
+			);
 			sound.play();
 			numberoperationplus(1);
 		} else {
-			sound.setAttribute('src', './lost-9HzUp7IM.mp3');
+			sound.setAttribute(
+				'src',
+				'https://github.com/ManuelPerezYebra/Numbers-Game/blob/main/docs/assets/lost-9HzUp7IM.mp3'
+			);
 			sound.play();
 			numberoperationplus(1);
 		}
