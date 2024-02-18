@@ -1,6 +1,6 @@
 # Título del proyecto
 
-![Imagen del proyecto]([https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true](https://github.com/ManuelPerezYebra/Numbers-Game/blob/main/docs/assets/screenshots/general%20project.png))
+![Imagen del proyecto](https://github.com/ManuelPerezYebra/Numbers-Game/blob/main/docs/assets/screenshots/general%20project.png)
 
 ## Ejemplo en vivo
 
