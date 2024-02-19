@@ -12,6 +12,7 @@ const totalPointsElement = document.getElementById('totalpointsElement');
 const totaloperationsElement = document.getElementById('totaloperations');
 const totalpointscontainer = document.getElementById('totalpointscontainer');
 const roundCounter = document.getElementById('round');
+const audioElement = document.getElementById('audio');
 
 export {
 	root,
@@ -27,5 +28,6 @@ export {
 	totalPointsElement,
 	totaloperationsElement,
 	totalpointscontainer,
-	roundCounter
+	roundCounter,
+	audioElement
 };
