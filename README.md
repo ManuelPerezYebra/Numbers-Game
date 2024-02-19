@@ -1,6 +1,6 @@
 # Numbers Game
 
-![Imagen del proyecto](https://github.com/ManuelPerezYebra/Numbers-Game/blob/main/docs/assets/screenshots/general%20project.png)
+![Imagen del proyecto](https://raw.githubusercontent.com/ManuelPerezYebra/Numbers-Game/main/readmeimages/general.png)
 
 ## Ejemplo en vivo
 
@@ -27,8 +27,8 @@ En este proyecto he aprendido la lógica basica de javaScript y manipulación de
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/ManuelPerezYebra/Numbers-Game/blob/main/docs/assets/screenshots/Numbers%20Game%20general.png)
-![Captura del proyecto](https://github.com/ManuelPerezYebra/Numbers-Game/blob/main/docs/assets/screenshots/Numbers%20Game%20general%20light.png)
+![Captura del proyecto](https://raw.githubusercontent.com/ManuelPerezYebra/Numbers-Game/main/readmeimages/light%20mode.png)
+![Captura del proyecto](https://raw.githubusercontent.com/ManuelPerezYebra/Numbers-Game/main/readmeimages/darck%20mode.png)
 
 ## Autor ✒️
 
